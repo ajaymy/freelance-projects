@@ -12,5 +12,5 @@ During the course of these projects I learned, used and implemented the below te
 * Vue js
 * Python
 
-![An Image](https://github.com/ajaymy/freelance-projects/blob/master/1.jpg)
-![Another Image](/blob/master/samples.svg)
+![](images/1.jpg)
+![](images/samples.svg)
