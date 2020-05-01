@@ -13,4 +13,4 @@ During the course of these projects I learned, used and implemented the below te
 * Python
 
 ![](images/1.png)
-![](images/samples.svg)
+![](images/sample.svg)
