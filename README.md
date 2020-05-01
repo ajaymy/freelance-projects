@@ -12,8 +12,8 @@ During the course of these projects I learned, used and implemented the below te
 * ![](images/vue-logo.png)
 * ![](images/python-logo.png)
 
-     1       | 2
------------- | -------------
-Content from cell 1 | Content from cell 2
+1| 2| 3
+-| -| -
+![](images/wp-logo.png) | ![](images/bootstrap-logo.png) | ![](images/jquery-logo.png)
 Content in the first column | Content in the second column
 
