@@ -10,3 +10,6 @@ During the course of these projects I learned, used and implemented the below te
 * Node js
 * Vue js
 * Python
+
+![An Image](1.jpg)
+![Another Image](samples.svg)
