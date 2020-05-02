@@ -1,7 +1,7 @@
 ## Client
-International Management School Singapore
+**International Management School Singapore**
 
-The school offers courses on Business Management and Administration at affordable rates in Singapore.
+> The school offers courses on Business Management and Administration at affordable rates in Singapore.
 
 ## URL
 [link to School site!](http://www.ims.edu.sg/)
@@ -10,4 +10,6 @@ The school offers courses on Business Management and Administration at affordabl
 * Wordpress
 * Plugins 
 
+## Status
+> **Completed and LIVE**
 ## Screenshots
