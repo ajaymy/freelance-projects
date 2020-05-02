@@ -15,3 +15,7 @@
 
 ## Screenshots
 ![](images/ims1.png)
+
+[]()  | []() | []()
+------|------| ----- 
+[Project 1](../README) | [Project 2](ecommerce) | [Project 3](lab)
