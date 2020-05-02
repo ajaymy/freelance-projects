@@ -16,6 +16,9 @@ Framework| RunTime| Library| Languages
 
 ## Projects
 
-[Project 1](projects/education)
+[]()  | 
+------|------
+[Project 1](projects/education) | [Project 2](projects/ecommerce)
 
-[Project 2](projects/ecommerce)
+
+
