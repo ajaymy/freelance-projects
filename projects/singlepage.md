@@ -18,6 +18,8 @@
 * jQuery 
 
 ## Status
+> After serving the customers for about an year, client decided to close down business
+
 > **Not in LIVE but self hosted**
 
 ## Screenshots
