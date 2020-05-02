@@ -22,4 +22,4 @@
 
 []()  | []() | []()
 ------|------| ----- 
-[Home](https://ajaymy.github.io/freelance-projects/) | [E-Commerce site](ecommerce) | [Medical lab site](lab)
+[Home](https://ajaymy.github.io/freelance-projects/) | [E-Commerce site](ecommerce) | [Education site](education)
