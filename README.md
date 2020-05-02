@@ -1,7 +1,11 @@
-## My Freelance projects list
-I've listed down the projects that I've done on a freelance basis.
+## About Me
+Hello and Welcome to my github pages.
 
-Please feel free to contact me for further details - ajaymy[at]gmail.com
+My name is Ajay and I've 13 years of professional experience with core skills of project management, business analysis and software engineering
+
+I've created this page mainly to showcase my freelance projects.
+
+Please feel free to contact me  - ajaymy[at]gmail.com
 ## Technologies
 I specilize in Microsoft based languages and frameworks such as **C#, ASP.NET, .NET Core**. However these skills were used only for my career progression. In order to explore other opensource technologies I used the freelance projects as a stepping-stone.
 
