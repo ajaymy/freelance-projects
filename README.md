@@ -18,7 +18,7 @@ Framework| RunTime| Library| Languages
 
 []()  | []() | []()
 ------|------| ----- 
-[Project 1](projects/education) | [Project 2](projects/ecommerce) | [Project 3](projects/lab)
+[Education site](projects/education) | [E-Commerce site](projects/ecommerce) | [Medical lab site](projects/lab)
 
 
 
