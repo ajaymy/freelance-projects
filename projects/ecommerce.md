@@ -22,6 +22,8 @@
 ## Screenshots
 ![](images/suv1.png)
 
-[]()  | []() | []()
-------|------| ----- 
-[Home](https://ajaymy.github.io/freelance-projects/) | [Education site](education) | [Medical lab site](lab)
+
+[]()  | []() | []() | []() | []()
+------|------| -----|------|----- 
+[Home](https://ajaymy.github.io/freelance-projects/) | [Realtime Monitoring App](projects/realtime) | [Single Page App](projects/singlepage) | [Medical lab site](lab) | [Education site](projects/education)
+
