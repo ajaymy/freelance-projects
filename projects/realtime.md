@@ -27,7 +27,7 @@ The basic architecture of the application is as below
 
 []()  | []() | []() | []() | []()
 ------|------| -----|------|----- 
-[Home](https://ajaymy.github.io/freelance-projects/) | [Single Page App](projects/singlepage) | [E-Commerce site](ecommerce) | [Medical lab site](lab) | [Education site](projects/education)
+[Home](https://ajaymy.github.io/freelance-projects/) | [Single Page App](singlepage) | [E-Commerce site](ecommerce) | [Medical lab site](lab) | [Education site](education)
 
 
 
