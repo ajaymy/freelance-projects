@@ -19,6 +19,7 @@
 ## Screenshots
 ![](images/ims1.png)
 
-[]()  | []() | []()
-------|------| ----- 
-[Home](https://ajaymy.github.io/freelance-projects/) | [E-Commerce site](ecommerce) | [Medical lab site](lab)
+
+[]()  | []() | []() | []() | []()
+------|------| -----|------|----- 
+[Home](https://ajaymy.github.io/freelance-projects/) | [Realtime Monitoring App](projects/realtime) | [Single Page App](projects/singlepage) | [Medical lab site](lab) | [E-Commerce site](projects/ecommerce)
