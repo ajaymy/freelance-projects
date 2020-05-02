@@ -18,4 +18,4 @@
 
 []()  | []() | []()
 ------|------| ----- 
-[Project 1](../README) | [Project 2](ecommerce) | [Project 3](lab)
+[Project 1](https://ajaymy.github.io/freelance-projects/) | [Project 2](ecommerce) | [Project 3](lab)
