@@ -1,5 +1,5 @@
 ## My Freelance projects list
-I've listed down the projects list which I've done on a freelance basis.
+I've listed down the projects that I've done on a freelance basis.
 
 Please feel free to contact me for further details - ajaymy[at]gmail.com
 ## Technologies
