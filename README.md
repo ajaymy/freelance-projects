@@ -16,9 +16,9 @@ Framework| RunTime| Library| Languages
 
 ## Projects
 
-[]()  | []() | []()
-------|------| ----- 
-[Education site](projects/education) | [E-Commerce site](projects/ecommerce) | [Medical lab site](projects/lab)
+[]()  | []() | []() | []() | []()
+------|------| -----|------|----- 
+[Realtime Monitoring App](projects/realtime) | [Education site](projects/education) | [E-Commerce site](projects/ecommerce) | [Medical lab site](projects/lab) | [Single Page App](projects/singlepage)
 
 
 
