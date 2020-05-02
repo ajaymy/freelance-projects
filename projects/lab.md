@@ -20,3 +20,6 @@
 ## Screenshots
 ![](images/promedi1.png)
 
+[]()  | []() | []()
+------|------| ----- 
+[Home](https://ajaymy.github.io/freelance-projects/) | [E-Commerce site](ecommerce) | [Medical lab site](lab)
