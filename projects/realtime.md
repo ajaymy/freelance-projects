@@ -15,12 +15,10 @@ The basic architecture of the application is as below
 > ![](images/pms-hosting.png)
 
 ## Tools used
-* Node js
-* SQLite
-* Vue 
+
+> ![](images/pms-tools.png)
 
 ## Status
-> After serving the customers for about an year, client decided to close down business
 
 > **Not in LIVE but self hosted**
 
@@ -29,7 +27,7 @@ The basic architecture of the application is as below
 
 []()  | []() | []() | []() | []()
 ------|------| -----|------|----- 
-[Home](https://ajaymy.github.io/freelance-projects/) | [Realtime Monitoring App](projects/realtime) | [E-Commerce site](ecommerce) | [Medical lab site](lab) | [Education site](projects/education)
+[Home](https://ajaymy.github.io/freelance-projects/) | [Single Page App](projects/singlepage) | [E-Commerce site](ecommerce) | [Medical lab site](lab) | [Education site](projects/education)
 
 
 
