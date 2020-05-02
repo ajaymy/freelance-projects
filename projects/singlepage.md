@@ -27,6 +27,6 @@
 
 []()  | []() | []() | []() | []()
 ------|------| -----|------|----- 
-[Home](https://ajaymy.github.io/freelance-projects/) | [Realtime Monitoring App](projects/realtime) | [E-Commerce site](ecommerce) | [Medical lab site](lab) | [Education site](projects/education)
+[Home](https://ajaymy.github.io/freelance-projects/) | [Realtime Monitoring App](realtime) | [E-Commerce site](ecommerce) | [Medical lab site](lab) | [Education site](education)
 
 
