@@ -7,7 +7,7 @@ I've created this page mainly to showcase my freelance projects.
 
 Please feel free to contact me  - ajaymy[at]gmail.com
 ## Technologies
-I specilize in Microsoft based languages and frameworks such as **C#, ASP.NET, .NET Core**. However these skills were used only for my career progression. In order to explore other opensource technologies I used the freelance projects as a stepping-stone.
+I specialize in Microsoft based languages and frameworks. However these skills were used only for my career progression. In order to explore other opensource technologies I used the freelance projects as a stepping-stone.
 
 During the course of these projects I learned, used and implemented the below technologies
 
